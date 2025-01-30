@@ -111,7 +111,7 @@ msgstr ""
 #: course/lesson-12-using-variables/lesson.tres:124
 msgid "In the above example, which line defines the angular speed variable?"
 msgstr ""
-"Welche Linie definiert im obigen Beispiel die Winkelgeschwindigkeit-Variable?"
+"Welche Zeile definiert im obigen Beispiel die Winkelgeschwindigkeit-Variable?"
 
 #: course/lesson-12-using-variables/lesson.tres:127
 msgid ""
